@@ -14,3 +14,5 @@ Computing Glossary
   - Non-Unix adoption: OpenVMS, BeOS, Haiku, Windows 10 Anniversary Update using the Windows Subsystem for Linux, etc.
   - Game console: PlayStation portable, Nintendo DS, Wii, etc
   - Android uses ELF .so libraries for the Java native Interface. With Android Runtime (ART), the default since Android 5.0 "Lollipop", all applications are compiled into native ELF binaries on installation.
+
+  Source: [Wikipedia](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
